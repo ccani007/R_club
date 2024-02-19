@@ -8,7 +8,7 @@ With this goal in mind, we have initiated this club aimed at Graduate Students a
 
 We have planned a series of sessions for our club:
 
-**R Club Session Plan**
+# **R Club Session Plan**
 
 ## Session 1: Introduction to R, RStudio, and Package Management
 
