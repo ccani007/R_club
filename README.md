@@ -1,4 +1,4 @@
-# R Club for Public Health and Social Work
+# R Club for Public Health and Social Work <img src='img/logo.png' align="right" width="200" /></a>
 
 Welcome to our repository! 
 
