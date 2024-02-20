@@ -1,15 +1,12 @@
 ---
 title: "About Us"
-format: 
-  html: 
-    css: styles.css
 ---
 
 ## Catalina Cañizares
 ::: columns
 ::: {.column width="40%"}
 ::: {.photo} 
-![](img/Cata.jpeg)
+![](img/Cata.jpeg){width=77%}
 :::
 :::
 
@@ -36,7 +33,7 @@ Micaela is a doctoral student in epidemiology at the Stempel College of Public H
 
 ::: {.column width="40%"}
 ::: {.photo} 
-![](img/Mica.jpeg)
+![](img/Mica.jpeg){width=80%}
 :::
 :::
 :::
