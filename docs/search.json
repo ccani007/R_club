@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "plan.html",
+    "href": "plan.html",
+    "title": "Session Plan",
+    "section": "",
+    "text": "These sessions serve as a roadmap, offering a glimpse into the topics we believe are essential for our club. Please note, this itinerary is not set in stone; we aim for flexibility rather than adherence to a strict sequence. Our goal is to adapt the content and order of sessions based on the group’s progress, interests, and feedback.\nWe plan to convene twice a month. Details regarding the meeting room and specific dates will be announced once reservations are confirmed.\nStay tuned for updates!"
+  },
+  {
+    "objectID": "plan.html#session-1-introduction-to-r-rstudio-and-package-management",
+    "href": "plan.html#session-1-introduction-to-r-rstudio-and-package-management",
+    "title": "Session Plan",
+    "section": "Session 1: Introduction to R, RStudio, and Package Management",
+    "text": "Session 1: Introduction to R, RStudio, and Package Management\n\nObjective\nFamiliarize participants with the R environment, RStudio interface, and the basics of package management.\n\n\nTopics\n\nOverview of R and its importance in data analysis.\nInstalling R and RStudio; navigating the RStudio interface.\nWorking in projects\nBasic R syntax: variables, data types, and simple operations.\nUnderstanding R packages, installing and loading them using install.packages() and library().\nExploring package documentation.\n\n\n\nActivity\nInstall R and RStudio, execute basic R commands, install a package (e.g., tidyverse), and explore its documentation."
+  },
+  {
+    "objectID": "plan.html#session-2-data-manipulation-with-tidyverse",
+    "href": "plan.html#session-2-data-manipulation-with-tidyverse",
+    "title": "Session Plan",
+    "section": "Session 2: Data Manipulation with Tidyverse",
+    "text": "Session 2: Data Manipulation with Tidyverse\n\nObjective\nIntroduce the Tidyverse suite for data manipulation and visualization, focusing on dplyr, including reshaping data with pivot_longer() and pivot_wider().\n\n\nTopics\n\nBrief overview of the Tidyverse packages.\nData manipulation with dplyr (filtering, selecting, mutating, summarizing, and grouping).\nReshaping data with pivot_longer() and pivot_wider().\n\n\n\nActivity\nParticipants will use dplyr to manipulate a dataset, and practice reshaping data."
+  },
+  {
+    "objectID": "plan.html#session-3-introduction-to-reproducible-reports-with-r-markdown-and-quarto",
+    "href": "plan.html#session-3-introduction-to-reproducible-reports-with-r-markdown-and-quarto",
+    "title": "Session Plan",
+    "section": "Session 3: Introduction to Reproducible Reports with R Markdown and Quarto",
+    "text": "Session 3: Introduction to Reproducible Reports with R Markdown and Quarto\n\nObjective: Introduce the concept of reproducible research and reports using R Markdown and Quarto.\n\n\nTopics:\n\nWhat is R Markdown and Quarto?\nCreating a simple report integrating R code and narrative text.\nExporting reports to different formats (HTML, PDF, Word).\n\n\n\nActivity\nCreate a basic R Markdown document that includes text, code, and outputs."
+  },
+  {
+    "objectID": "plan.html#session-4-data-visualization-with-ggplot2-and-creating-tables",
+    "href": "plan.html#session-4-data-visualization-with-ggplot2-and-creating-tables",
+    "title": "Session Plan",
+    "section": "Session 4: Data Visualization with ggplot2 and Creating Tables",
+    "text": "Session 4: Data Visualization with ggplot2 and Creating Tables\n\nObjective\nExpand on basic ggplot2 usage and introduce methods for creating well-formatted tables for reports.\n\n\nTopics\n\nAdvanced data visualization techniques with ggplot2.\nCustomizing plots to improve readability and aesthetics.\nCreating tables with gtsummary, andgt\n\n\n\nActivity\nCreate a visualization that tells a story about a dataset. Generate a report including a well-formatted table."
+  },
+  {
+    "objectID": "plan.html#session-5-version-control-with-github",
+    "href": "plan.html#session-5-version-control-with-github",
+    "title": "Session Plan",
+    "section": "Session 5: Version Control with GitHub",
+    "text": "Session 5: Version Control with GitHub\n\nObjective\nIntroduce the concept of version control and how to use GitHub for project management and collaboration.\n\n\nTopics:\n\nBasics of version control and why it’s important.\nSetting up a GitHub account and understanding the GitHub interface.\nCreating repositories, committing changes, and understanding the workflow (clone, add, commit, push).\nCollaborating on projects (forks, branches, pull requests).\n\n\n\nActivity:\nCreate a new repository on GitHub and practice making commits and pushing changes."
+  },
+  {
+    "objectID": "plan.html#session-6-creating-websites-with-quarto",
+    "href": "plan.html#session-6-creating-websites-with-quarto",
+    "title": "Session Plan",
+    "section": "Session 6: Creating Websites with Quarto",
+    "text": "Session 6: Creating Websites with Quarto\n\nObjective:\nTeach participants how to create and publish websites using Quarto, an open-source scientific and technical publishing system built on Pandoc.\n\n\nTopics:\n\nCreating static websites with Quarto and customizing the layout and appearance.\nPublishing a Quarto website on GitHub Pages.\n\n\n\nActivity:\nParticipants will create a simple website using Quarto that includes text, code outputs, and visualizations, and then publish it on GitHub Pages."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to R Club for Public Health and Social Work’s Website!",
+    "section": "",
+    "text": "We are Catalina Canizares and Micaela Lembo, PhD students at the Robert Stempel College of Public Health and Social Work, Florida International University.\nOur journey in social work and Epidemiology has been significantly enriched by our use of R, a powerful tool for data analysis and visualization. Recognizing the immense value that R brings to research, we are excited to share our knowledge with our colleagues.\nWith this goal in mind, we have initiated the R Club for Public Health and Social Work aimed at Graduate Students and interested Faculty members who aspire to learn and apply R in their research projects.\nThrough this club, we intend to build a community of R users within our college, fostering a collaborative environment where we can enhance our abilities, share insights, and contribute to each other’s research projects."
+  },
+  {
+    "objectID": "us.html",
+    "href": "us.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Catalina is a social welfare PhD candidate in the School of Social Work at Florida International University. Her research focuses on understanding the risk and protective factors for suicide attempts and related behaviors in adolescents, the role of cognitive schemas in negative affect and depression in adults, and data science applied to mental health. She is interested in applying novel machine learning methods to mental health related datasets to compare its performance with traditional linear methods. To learn more about her click here"
+  },
+  {
+    "objectID": "us.html#catalina-cañizares",
+    "href": "us.html#catalina-cañizares",
+    "title": "About Us",
+    "section": "",
+    "text": "Catalina is a social welfare PhD candidate in the School of Social Work at Florida International University. Her research focuses on understanding the risk and protective factors for suicide attempts and related behaviors in adolescents, the role of cognitive schemas in negative affect and depression in adults, and data science applied to mental health. She is interested in applying novel machine learning methods to mental health related datasets to compare its performance with traditional linear methods. To learn more about her click here"
+  },
+  {
+    "objectID": "us.html#micaela-lembo",
+    "href": "us.html#micaela-lembo",
+    "title": "About Us",
+    "section": "Micaela Lembo",
+    "text": "Micaela Lembo\n\n\nMicaela is a doctoral student in epidemiology at the Stempel College of Public Health and Social Work at Florida International University. Her research focuses on the interplay of cultural, familial, and environmental determinants associated with depressive mood disorders among Latinx adolescents. Through her work, she aims to apply multilevel and machine learning models. She is currently working on building an R package to simplify the analysis of the BRFSS data a CDC public health dataset."
+  },
+  {
+    "objectID": "code_of_conduct.html",
+    "href": "code_of_conduct.html",
+    "title": "Code of Conduct for R Club",
+    "section": "",
+    "text": "In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-standards",
+    "href": "code_of_conduct.html#our-standards",
+    "title": "Code of Conduct for R Club",
+    "section": "Our Standards",
+    "text": "Our Standards\nExamples of behavior that contributes to creating a positive environment include:\n\nUsing welcoming and inclusive language\nBeing respectful of differing viewpoints and experiences\nGracefully accepting constructive criticism\nFocusing on what is best for the community\nShowing empathy towards other community members\n\nExamples of unacceptable behavior by participants include:\n\nTrolling, insulting/derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information\nThe use of sexualized language or imagery and unwelcome sexual attention or advances\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "code_of_conduct.html#our-responsibilities",
+    "href": "code_of_conduct.html#our-responsibilities",
+    "title": "Code of Conduct for R Club",
+    "section": "Our Responsibilities",
+    "text": "Our Responsibilities\nProject maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.\nProject maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful."
+  },
+  {
+    "objectID": "code_of_conduct.html#scope",
+    "href": "code_of_conduct.html#scope",
+    "title": "Code of Conduct for R Club",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community."
+  },
+  {
+    "objectID": "code_of_conduct.html#attribution",
+    "href": "code_of_conduct.html#attribution",
+    "title": "Code of Conduct for R Club",
+    "section": "Attribution",
+    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html."
+  }
+]
