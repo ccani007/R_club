@@ -1,0 +1,42 @@
+---
+title: "About Us"
+format: 
+  html: 
+    css: styles.css
+---
+
+## Catalina Cañizares
+::: columns
+::: {.column width="40%"}
+::: {.photo} 
+![](img/Cata.jpeg)
+:::
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+Catalina is a social welfare PhD candidate in the School of Social Work at Florida International University. Her research focuses on understanding the risk and protective factors for suicide attempts and related behaviors in adolescents, the role of cognitive schemas in negative affect and depression in adults, and data science applied to mental health. She is interested in applying novel machine learning methods to mental health related datasets to compare its performance with traditional linear methods. To learn more about her click [here](https://ccani007.github.io/ccani_website/) 
+:::
+:::
+
+
+## Micaela Lembo
+
+::: columns
+::: {.column width="55%"}
+
+Micaela is a doctoral student in epidemiology at the Stempel College of Public Health and Social Work at Florida International University. Her research focuses on the interplay of cultural, familial, and environmental determinants associated with depressive mood disorders among Latinx adolescents. Through her work, she aims to apply multilevel and machine learning models. She is currently working on building an R package to simplify the analysis of the BRFSS data a CDC public health dataset.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+::: {.photo} 
+![](img/Mica.jpeg)
+:::
+:::
+:::
