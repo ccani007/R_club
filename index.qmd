@@ -2,7 +2,7 @@
 title: "Welcome to R Club for Public Health and Social Work's Website!"
 ---
 
-<img src='img/logo.png' align="right" width="300" /></a>
+<img src='img/logo.png' align="right" width="200" height="200" /></a>
 
 We are `Catalina Canizares` and `Micaela Lembo`, PhD students at the Robert Stempel College of Public Health and Social Work, Florida International University. 
 
