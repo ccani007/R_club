@@ -25,7 +25,7 @@
     "href": "plan.html#session-3-introduction-to-reproducible-reports-with-r-markdown-and-quarto",
     "title": "Session Plan",
     "section": "Session 3: Introduction to Reproducible Reports with R Markdown and Quarto",
-    "text": "Session 3: Introduction to Reproducible Reports with R Markdown and Quarto\n\nObjective: Introduce the concept of reproducible research and reports using R Markdown and Quarto.\n\n\nTopics:\n\nWhat is R Markdown and Quarto?\nCreating a simple report integrating R code and narrative text.\nExporting reports to different formats (HTML, PDF, Word).\n\n\n\nActivity\nCreate a basic R Markdown document that includes text, code, and outputs."
+    "text": "Session 3: Introduction to Reproducible Reports with R Markdown and Quarto\n\nObjective:\nIntroduce the concept of reproducible research and reports using R Markdown and Quarto.\n\n\nTopics:\n\nWhat is R Markdown and Quarto?\nCreating a simple report integrating R code and narrative text.\nExporting reports to different formats (HTML, PDF, Word).\n\n\n\nActivity\nCreate a basic R Markdown document that includes text, code, and outputs."
   },
   {
     "objectID": "plan.html#session-4-data-visualization-with-ggplot2-and-creating-tables",

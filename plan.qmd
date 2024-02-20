@@ -40,7 +40,8 @@ Participants will use `dplyr` to manipulate a dataset, and practice reshaping da
 
 ## Session 3: Introduction to Reproducible Reports with R Markdown and Quarto
 
-### Objective: Introduce the concept of reproducible research and reports using R Markdown and Quarto.
+### Objective: 
+Introduce the concept of reproducible research and reports using R Markdown and Quarto.
 
 ### Topics:
 - What is R Markdown and Quarto?
