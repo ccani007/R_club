@@ -3,6 +3,8 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-EE397TN9ZL" 
+  cookie-consent: true
   title: "R Club for Public Health and Social Work"
   navbar:
     left:
