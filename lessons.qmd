@@ -13,6 +13,7 @@ title: "Session Materials"
 6. Open a quarto file
 7. Data Import
 8. Types of data 
+9. Respond our survey 
 
 
 ## Data Import
