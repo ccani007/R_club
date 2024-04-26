@@ -45,4 +45,4 @@ Character: Character data, also known as string data, represents text values. Ch
 
 - [R for Data Science](https://r4ds.hadley.nz/)
 - [Cheatsheets](https://posit.co/resources/cheatsheets/)
-- [R Medicina 2024](https://rconsortium.github.io/RMedicine_website/)
+- [R Medicine 2024](https://rconsortium.github.io/RMedicine_website/)
