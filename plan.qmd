@@ -4,12 +4,10 @@ title: "Session Plan"
 
 These sessions serve as a roadmap, offering a glimpse into the topics we believe are essential for our club. Please note, this itinerary **is not set in stone**; we aim for *flexibility* rather than *adherence to a strict sequence*. Our goal is to adapt the content and order of sessions based on the group's progress, interests, and feedback.
 
-`We plan to convene twice a month. Details regarding the meeting room and specific dates will be announced once reservations are confirmed.` 
-
-`Stay tuned for updates!`
-
 
 ## Session 1: Introduction to R, RStudio, and Package Management
+
+`April 26, 2024 at 10:30 am via Zoom`
 
 ### Objective
 Familiarize participants with the R environment, RStudio interface, and the basics of package management.

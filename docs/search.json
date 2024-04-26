@@ -4,14 +4,14 @@
     "href": "plan.html",
     "title": "Session Plan",
     "section": "",
-    "text": "These sessions serve as a roadmap, offering a glimpse into the topics we believe are essential for our club. Please note, this itinerary is not set in stone; we aim for flexibility rather than adherence to a strict sequence. Our goal is to adapt the content and order of sessions based on the group’s progress, interests, and feedback.\nWe plan to convene twice a month. Details regarding the meeting room and specific dates will be announced once reservations are confirmed.\nStay tuned for updates!"
+    "text": "These sessions serve as a roadmap, offering a glimpse into the topics we believe are essential for our club. Please note, this itinerary is not set in stone; we aim for flexibility rather than adherence to a strict sequence. Our goal is to adapt the content and order of sessions based on the group’s progress, interests, and feedback."
   },
   {
     "objectID": "plan.html#session-1-introduction-to-r-rstudio-and-package-management",
     "href": "plan.html#session-1-introduction-to-r-rstudio-and-package-management",
     "title": "Session Plan",
     "section": "Session 1: Introduction to R, RStudio, and Package Management",
-    "text": "Session 1: Introduction to R, RStudio, and Package Management\n\nObjective\nFamiliarize participants with the R environment, RStudio interface, and the basics of package management.\n\n\nTopics\n\nOverview of R and its importance in data analysis.\nInstalling R and RStudio; navigating the RStudio interface.\nWorking in projects\nBasic R syntax: variables, data types, and simple operations.\nUnderstanding R packages, installing and loading them using install.packages() and library().\nExploring package documentation.\n\n\n\nActivity\nInstall R and RStudio, execute basic R commands, install a package (e.g., tidyverse), and explore its documentation."
+    "text": "Session 1: Introduction to R, RStudio, and Package Management\nApril 26, 2024 at 10:30 am via Zoom\n\nObjective\nFamiliarize participants with the R environment, RStudio interface, and the basics of package management.\n\n\nTopics\n\nOverview of R and its importance in data analysis.\nInstalling R and RStudio; navigating the RStudio interface.\nWorking in projects\nBasic R syntax: variables, data types, and simple operations.\nUnderstanding R packages, installing and loading them using install.packages() and library().\nExploring package documentation.\n\n\n\nActivity\nInstall R and RStudio, execute basic R commands, install a package (e.g., tidyverse), and explore its documentation."
   },
   {
     "objectID": "plan.html#session-2-data-manipulation-with-tidyverse",
