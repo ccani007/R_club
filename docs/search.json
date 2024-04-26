@@ -49,34 +49,6 @@
     "text": "Session 6: Creating Websites with Quarto\n\nObjective:\nTeach participants how to create and publish websites using Quarto, an open-source scientific and technical publishing system built on Pandoc.\n\n\nTopics:\n\nCreating static websites with Quarto and customizing the layout and appearance.\nPublishing a Quarto website on GitHub Pages.\n\n\n\nActivity:\nParticipants will create a simple website using Quarto that includes text, code outputs, and visualizations, and then publish it on GitHub Pages."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to R Club for Public Health and Social Work’s Website!",
-    "section": "",
-    "text": "We are Catalina Canizares and Micaela Lembo, PhD students at the Robert Stempel College of Public Health and Social Work, Florida International University.\nOur journey in social work and Epidemiology has been significantly enriched by our use of R, a powerful tool for data analysis and visualization. Recognizing the immense value that R brings to research, we are excited to share our knowledge with our colleagues.\nWith this goal in mind, we have initiated the R Club for Public Health and Social Work aimed at Graduate Students and interested Faculty members who aspire to learn and apply R in their research projects.\nThrough this club, we intend to build a community of R users within our college, fostering a collaborative environment where we can enhance our abilities, share insights, and contribute to each other’s research projects.\n\nIf you are interested in joining us, please fill in this short form."
-  },
-  {
-    "objectID": "us.html",
-    "href": "us.html",
-    "title": "About Us",
-    "section": "",
-    "text": "Catalina is a social welfare PhD candidate in the School of Social Work at Florida International University. Her research focuses on understanding the risk and protective factors for suicide attempts and related behaviors in adolescents, the role of cognitive schemas in negative affect and depression in adults, and data science applied to mental health. She is interested in applying novel machine learning methods to mental health related datasets to compare its performance with traditional linear methods. To learn more about her click here"
-  },
-  {
-    "objectID": "us.html#catalina-cañizares",
-    "href": "us.html#catalina-cañizares",
-    "title": "About Us",
-    "section": "",
-    "text": "Catalina is a social welfare PhD candidate in the School of Social Work at Florida International University. Her research focuses on understanding the risk and protective factors for suicide attempts and related behaviors in adolescents, the role of cognitive schemas in negative affect and depression in adults, and data science applied to mental health. She is interested in applying novel machine learning methods to mental health related datasets to compare its performance with traditional linear methods. To learn more about her click here"
-  },
-  {
-    "objectID": "us.html#micaela-lembo",
-    "href": "us.html#micaela-lembo",
-    "title": "About Us",
-    "section": "Micaela Lembo",
-    "text": "Micaela Lembo\n\n\nMicaela is a doctoral student in epidemiology at the Stempel College of Public Health and Social Work at Florida International University. Her research focuses on the interplay of cultural, familial, and environmental determinants associated with depressive mood disorders among Latinx adolescents. Through her work, she aims to apply multilevel and machine learning models. She is currently working on building an R package to simplify the analysis of the BRFSS data a CDC public health dataset."
-  },
-  {
     "objectID": "code_of_conduct.html",
     "href": "code_of_conduct.html",
     "title": "Code of Conduct for R Club",
@@ -110,5 +82,61 @@
     "title": "Code of Conduct for R Club",
     "section": "Attribution",
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html."
+  },
+  {
+    "objectID": "us.html",
+    "href": "us.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Catalina is a social welfare PhD candidate in the School of Social Work at Florida International University. Her research focuses on understanding the risk and protective factors for suicide attempts and related behaviors in adolescents, the role of cognitive schemas in negative affect and depression in adults, and data science applied to mental health. She is interested in applying novel machine learning methods to mental health related datasets to compare its performance with traditional linear methods. To learn more about her click here"
+  },
+  {
+    "objectID": "us.html#catalina-cañizares",
+    "href": "us.html#catalina-cañizares",
+    "title": "About Us",
+    "section": "",
+    "text": "Catalina is a social welfare PhD candidate in the School of Social Work at Florida International University. Her research focuses on understanding the risk and protective factors for suicide attempts and related behaviors in adolescents, the role of cognitive schemas in negative affect and depression in adults, and data science applied to mental health. She is interested in applying novel machine learning methods to mental health related datasets to compare its performance with traditional linear methods. To learn more about her click here"
+  },
+  {
+    "objectID": "us.html#micaela-lembo",
+    "href": "us.html#micaela-lembo",
+    "title": "About Us",
+    "section": "Micaela Lembo",
+    "text": "Micaela Lembo\n\n\nMicaela is a doctoral student in epidemiology at the Stempel College of Public Health and Social Work at Florida International University. Her research focuses on the interplay of cultural, familial, and environmental determinants associated with depressive mood disorders among Latinx adolescents. Through her work, she aims to apply multilevel and machine learning models. She is currently working on building an R package to simplify the analysis of the BRFSS data a CDC public health dataset."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to R Club for Public Health and Social Work’s Website!",
+    "section": "",
+    "text": "We are Catalina Canizares and Micaela Lembo, PhD students at the Robert Stempel College of Public Health and Social Work, Florida International University.\nOur journey in social work and Epidemiology has been significantly enriched by our use of R, a powerful tool for data analysis and visualization. Recognizing the immense value that R brings to research, we are excited to share our knowledge with our colleagues.\nWith this goal in mind, we have initiated the R Club for Public Health and Social Work aimed at Graduate Students and interested Faculty members who aspire to learn and apply R in their research projects.\nThrough this club, we intend to build a community of R users within our college, fostering a collaborative environment where we can enhance our abilities, share insights, and contribute to each other’s research projects.\n\nIf you are interested in joining us, please fill in this short form."
+  },
+  {
+    "objectID": "lessons.html",
+    "href": "lessons.html",
+    "title": "Session Materials",
+    "section": "",
+    "text": "Speakers Introduction.\nWebsite and Code of Conduct Overview\nR Knowledge and Experience Assessment ~ “We will go as fast as the slowest person in the room”\nR Exploration\nHow to work within a project\nOpen a quarto file\nData Import\nTypes of data\n\n\n\n\n\nClick on this link and download the data: Taylor Data\nStore it in your raw_data folder\nData dictionary\n\n\n\n\nInteger: Integers are whole numbers without any decimal or fractional parts. They are used to represent counts or discrete quantities. In R, integer values are represented by the integer data type.\nNumeric (or Double): Numeric data, also known as double precision floating-point numbers, can store both integer and decimal values. Numeric data is commonly used for continuous measurements and calculations. In R, numeric values are represented by the numeric data type. Character: Character data, also known as string data, represents text values. Character data is used to store text or categorical information. For example, names, addresses, categories, etc.\nLogical (LGL): Logical data represents binary values, typically TRUE or FALSE. Logical data is often used for conditions or Boolean operations. For example, whether an event occurred (TRUE) or not (FALSE), whether a condition is met (TRUE) or not (FALSE), etc.\nFactor: Factor data is used to represent categorical variables with a fixed number of levels or categories. Factors are stored as integers, where each integer corresponds to a specific level or category. Factor data is useful for statistical analysis and plotting categorical data. For example, gender (Male, Female), education level (High School, College, University), etc."
+  },
+  {
+    "objectID": "lessons.html#agenda",
+    "href": "lessons.html#agenda",
+    "title": "Session Materials",
+    "section": "",
+    "text": "Speakers Introduction.\nWebsite and Code of Conduct Overview\nR Knowledge and Experience Assessment ~ “We will go as fast as the slowest person in the room”\nR Exploration\nHow to work within a project\nOpen a quarto file\nData Import\nTypes of data"
+  },
+  {
+    "objectID": "lessons.html#data-import",
+    "href": "lessons.html#data-import",
+    "title": "Session Materials",
+    "section": "",
+    "text": "Click on this link and download the data: Taylor Data\nStore it in your raw_data folder\nData dictionary"
+  },
+  {
+    "objectID": "lessons.html#types-of-data",
+    "href": "lessons.html#types-of-data",
+    "title": "Session Materials",
+    "section": "",
+    "text": "Integer: Integers are whole numbers without any decimal or fractional parts. They are used to represent counts or discrete quantities. In R, integer values are represented by the integer data type.\nNumeric (or Double): Numeric data, also known as double precision floating-point numbers, can store both integer and decimal values. Numeric data is commonly used for continuous measurements and calculations. In R, numeric values are represented by the numeric data type. Character: Character data, also known as string data, represents text values. Character data is used to store text or categorical information. For example, names, addresses, categories, etc.\nLogical (LGL): Logical data represents binary values, typically TRUE or FALSE. Logical data is often used for conditions or Boolean operations. For example, whether an event occurred (TRUE) or not (FALSE), whether a condition is met (TRUE) or not (FALSE), etc.\nFactor: Factor data is used to represent categorical variables with a fixed number of levels or categories. Factors are stored as integers, where each integer corresponds to a specific level or category. Factor data is useful for statistical analysis and plotting categorical data. For example, gender (Male, Female), education level (High School, College, University), etc."
   }
 ]

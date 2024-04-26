@@ -1,0 +1,37 @@
+---
+title: "Session Materials"
+---
+# Lesson 1
+
+## Agenda
+
+1. Speakers Introduction. 
+2. Website and Code of Conduct Overview
+3. R Knowledge and Experience Assessment ~ *"We will go as fast as the slowest person in the room"*
+4. R Exploration 
+5. How to work within a project
+6. Open a quarto file
+7. Data Import
+8. Types of data 
+
+
+## Data Import
+
+1. Click on this link and download the data:
+[Taylor Data](https://docs.google.com/spreadsheets/d/11jbQwfSBr-pHEap2fs8_JvYgipbtDsps/edit?usp=sharing&ouid=101037354673858862140&rtpof=true&sd=true)
+
+2. Store it in your `raw_data` folder
+
+3. [Data dictionary](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-10-17/readme.md)
+
+## Types of Data 
+
+**Integer:** Integers are whole numbers without any decimal or fractional parts. They are used to represent counts or discrete quantities. In R, integer values are represented by the integer data type.
+
+**Numeric (or Double):** Numeric data, also known as double precision floating-point numbers, can store both integer and decimal values. Numeric data is commonly used for continuous measurements and calculations. In R, numeric values are represented by the numeric data type.
+Character: Character data, also known as string data, represents text values. Character data is used to store text or categorical information. For example, names, addresses, categories, etc.
+
+**Logical (LGL):** Logical data represents binary values, typically TRUE or FALSE. Logical data is often used for conditions or Boolean operations. For example, whether an event occurred (TRUE) or not (FALSE), whether a condition is met (TRUE) or not (FALSE), etc.
+
+**Factor:** Factor data is used to represent categorical variables with a fixed number of levels or categories. Factors are stored as integers, where each integer corresponds to a specific level or category. Factor data is useful for statistical analysis and plotting categorical data. For example, gender (Male, Female), education level (High School, College, University), etc.
+

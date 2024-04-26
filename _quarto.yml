@@ -13,6 +13,7 @@ website:
       - plan.qmd
       - href: code_of_conduct.qmd
       - us.qmd
+      - lessons.qmd
 
 format:
   html:
