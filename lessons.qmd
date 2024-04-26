@@ -15,6 +15,11 @@ title: "Session Materials"
 8. Types of data 
 9. Respond our survey 
 
+## How to download R and R studio (We need both)
+
+- [For Windows](https://derailment.netlify.app/2019-12-10-installing-r-rstudio-on-windows/)
+- [For Mac](https://derailment.netlify.app/2019-11-16-installing-r-rstudio-on-a-mac/)
+
 
 ## Data Import
 
@@ -36,3 +41,8 @@ Character: Character data, also known as string data, represents text values. Ch
 
 **Factor:** Factor data is used to represent categorical variables with a fixed number of levels or categories. Factors are stored as integers, where each integer corresponds to a specific level or category. Factor data is useful for statistical analysis and plotting categorical data. For example, gender (Male, Female), education level (High School, College, University), etc.
 
+## Resources we talked about today
+
+- [R for Data Science](https://r4ds.hadley.nz/)
+- [Cheatsheets](https://posit.co/resources/cheatsheets/)
+- [R Medicina 2024](https://rconsortium.github.io/RMedicine_website/)
